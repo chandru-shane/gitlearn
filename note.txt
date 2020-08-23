@@ -14,3 +14,10 @@ git config --global core.editor "code --wait"
 
 git diff [sha code ] -p
     eg : git diff e10ddc6 -p
+
+
+# Github code 
+# check Github disciption
+git remote add orgin repo_url
+git push orgin master 
+
