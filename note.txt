@@ -29,3 +29,7 @@ git branch --set-upstream-to=origin/master master
 
 after this track github command
 git pull
+
+
+# status command to see the status of local or github repo
+git status
