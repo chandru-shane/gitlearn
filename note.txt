@@ -1,3 +1,16 @@
 1 git init to iniatilze the repo 
 2 git add "file name "
 3 git commit -m "comment for the commit"
+
+
+git config --list
+git config --global user.name "chandrushane"
+
+git config  --global user.email chandrushane@test.com
+
+# for editor
+
+git config --global core.editor "code --wait"
+
+git diff [sha code ] -p
+    eg : git diff e10ddc6 -p
