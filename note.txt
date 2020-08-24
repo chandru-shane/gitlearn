@@ -66,5 +66,10 @@ git diff HEAD~2 HEAD~4
 
 
 # git annotate
-git annotate command is used to see log and show infromation about one file 
+git annotate command is used to see log and show infromation about one file in line by line
 git annotate filename
+
+# git commit -a 
+-a is used to reduce the git add filename it will automatically stage the modified
+
+eg : git commit -a -m "update file"
