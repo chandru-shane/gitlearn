@@ -53,3 +53,18 @@ eg: git diff cf04c1a0f08962 f5d325b041b88
 #git show 
 git show shas
 git show command is used to see all of infromation one particular commit with shas
+
+# git show HEAD
+is to see the infromation of current commit
+
+# git show HEAD~n 
+n is number before the current commit to show 
+eg: git show HEAD~3
+
+
+git diff HEAD~2 HEAD~4
+
+
+# git annotate
+git annotate command is used to see log and show infromation about one file 
+git annotate filename
