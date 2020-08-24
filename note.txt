@@ -33,3 +33,9 @@ git pull
 
 # status command to see the status of local or github repo
 git status
+
+#git clone
+
+
+#git remote
+To see the remote repo info
