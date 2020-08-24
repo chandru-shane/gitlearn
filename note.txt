@@ -73,3 +73,18 @@ git annotate filename
 -a is used to reduce the git add filename it will automatically stage the modified
 
 eg : git commit -a -m "update file"
+
+
+# git checkout -- filename
+
+
+# Undoing Changes and Reverting Commits
+# git checkout -- filename or git checkout -- . for total folder
+this command is to Undo the changes before statged
+
+
+# git reset HEAD filename  or git reset HEAD . for total folder 
+this command is to unstage the changes before commit 
+
+# git checkout sha filename or checkout sha . for total folder 
+this is to retrive the chan from that sha given
