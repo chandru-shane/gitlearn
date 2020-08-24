@@ -49,3 +49,7 @@ HEAD is current latest commit
 #git diff 
 git diff shas shas 
 eg: git diff cf04c1a0f08962 f5d325b041b88
+
+#git show 
+git show shas
+git show command is used to see all of infromation one particular commit with shas
