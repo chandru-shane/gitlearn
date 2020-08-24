@@ -39,3 +39,13 @@ git status
 
 #git remote
 To see the remote repo info
+
+#git log
+git log is command is used to see commit log 
+
+# HEAD
+HEAD is current latest commit 
+
+#git diff 
+git diff shas shas 
+eg: git diff cf04c1a0f08962 f5d325b041b88
