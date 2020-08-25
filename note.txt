@@ -135,3 +135,6 @@ note: feaature1 need to merged to dev branch
 
 # git branch -d feature1
 to delete feature1 branch after merged to dev branch
+
+## git push branch
+git push origin dev
