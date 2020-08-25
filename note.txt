@@ -107,3 +107,17 @@ this command is to create and switch to branch at the same time
 # /pwd.py for only file 
 # usernames/ for total folder
 # usernames/*.txt for whatever txt file will be ignored
+
+#### git syncing branches####
+
+# git push origin branch_name 
+is used to push the branch to github
+
+# git checkout -- track origin/branch_name
+this command is to pull the new branch on github and will be switched to that branch
+# ERROR ALERT
+
+ERROR : fatal: A branch named 'branch_name' already exists
+SOLUTION:
+git fetch
+git checkout --track branch_name
