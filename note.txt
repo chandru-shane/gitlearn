@@ -121,3 +121,7 @@ ERROR : fatal: A branch named 'branch_name' already exists
 SOLUTION:
 git fetch
 git checkout --track branch_name
+
+
+# GRAPH THE BRANCHES ON THE TERMINAL
+git log --graph
