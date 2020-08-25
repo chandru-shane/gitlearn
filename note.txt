@@ -88,3 +88,4 @@ this command is to unstage the changes before commit
 
 # git checkout sha filename or checkout sha . for total folder 
 this is to retrive the chan from that sha given
+eg: git check e50b94 store/templates/store/index.html
