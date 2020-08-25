@@ -102,4 +102,8 @@ this command is to switch the branch
 # git checkout -b branch_name
 this command is to create and switch to branch at the same time
 
-#
+## gitignore file 
+
+# /pwd.py for only file 
+# usernames/ for total folder
+# usernames/*.txt for whatever txt file will be ignored
