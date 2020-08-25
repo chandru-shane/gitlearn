@@ -125,3 +125,13 @@ git checkout --track branch_name
 
 # GRAPH THE BRANCHES ON THE TERMINAL
 git log --graph
+
+
+### git merge ###
+
+todo: you should be in desitination branch things to be merged
+git merge feature1 dev
+note: feaature1 need to merged to dev branch
+
+# git branch -d feature1
+to delete feature1 branch after merged to dev branch
