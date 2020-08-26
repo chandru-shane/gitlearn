@@ -138,3 +138,9 @@ to delete feature1 branch after merged to dev branch
 
 ## git push branch
 git push origin dev
+note: delete that feature1 branch in github
+
+
+### types of git merge
+1) Fast Forword merge
+2) recursive merge
