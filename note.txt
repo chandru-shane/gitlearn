@@ -156,3 +156,19 @@ so if branch1 created changes on same line where branch2
 now starts conflict
 
 now we need to decide how to code to be in when merging branch2 to master branch
+
+
+### git log --pretty=oneline###
+to see only shaws
+
+### GIT TAG ####
+
+git tag -a tagname -m "message"
+
+putting tags an preview commit
+
+git tag -a tagname shaw -m "message"
+
+to push git tag into remote 
+use this command
+git push origin --tags
