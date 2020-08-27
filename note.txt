@@ -138,3 +138,21 @@ to delete feature1 branch after merged to dev branch
 
 ## git push branch
 git push origin dev
+note: delete that feature1 branch in github
+
+
+### types of git merge
+1) Fast Forword merge
+2) recursive merge
+
+### git merge conflict 
+two branch form master branch at same commit branch1 and branch2
+
+after the changes branch1 is committed to master 
+
+now master branch ahead of branch2 
+
+so if branch1 created changes on same line where branch2
+now starts conflict
+
+now we need to decide how to code to be in when merging branch2 to master branch
